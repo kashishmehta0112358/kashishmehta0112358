@@ -1,3 +1,3 @@
-![Kashish Mehta](cover-banner.gif)
+![Kashish Mehta](cover-image.gif)
 
 # Kashish Mehta
