@@ -1,4 +1,4 @@
-![Kashish Mehta Cover Image](cover-banner.gif)
+![Kashish Mehta Cover Image](banner-cover.gif)
 
 # 👩🏻‍💻 Hi, I'm Kashish!
 
