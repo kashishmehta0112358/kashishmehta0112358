@@ -1,3 +1,3 @@
-![KM](cover-image.mp4)
+![Kashish Mehta](cover-banner.gif)
 
 # Kashish Mehta
